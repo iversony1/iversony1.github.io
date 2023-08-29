@@ -9,18 +9,14 @@
     "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
+      { "network": "github", "username": "iversony1", "url": "http://github.com/iversony1" },
+      { "network": "linkedin", "username": "iversonyago", "url": "http://linkedin.com/in/iverson-yago" },
       { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
       { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "IT " }
   ],
   "skills": [
     {
