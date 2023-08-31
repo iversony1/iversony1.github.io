@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cabling/icon.jpg
+image: img/cabling/icon.png
 title: "Cabling For Frear Hall"
 date: 2023
 published: true
