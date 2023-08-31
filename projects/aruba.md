@@ -10,7 +10,7 @@ labels:
 summary: "Installed the latest Access Points for the UHM Hosuing Residents"
 ---
 
-<img class="center" src="../img/aruba/pic1.png">
+<img width="800px" class="center" src="../img/aruba/pic1.png">
 
 ## What is an Access Point?
 
