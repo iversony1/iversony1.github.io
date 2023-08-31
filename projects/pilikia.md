@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/pilikia/icon.png
+image: img/pilikia/icon.jpg
 title: "Pilikia Service Request"
 date: 2023
 published: true
