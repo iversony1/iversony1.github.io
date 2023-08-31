@@ -14,7 +14,7 @@ summary: "Managing the connection and internet side of the service request websi
 
 ## UHM Housing Service Request System
 
-  I work as a support specialist for UHM housing, so I’m expected to help any resident with their technical and connection issues. Thus, I manage a service request site, only for UHM housing residents, named [Pilika](https://resnet.hawaii.edu/pilikia/). Where I only assist and manage the connection side of the website. This means that if a resident submits an issue with their connection, I'm expected to troubleshoot their issue and make sure they are no longer dealing with that problem.
+  I work as a support specialist for UHM housing, so I’m expected to help any resident with their technical and connection issues. Thus, I manage a service request site, only for UHM housing residents, named [Pilikia](https://resnet.hawaii.edu/pilikia/). Where I only assist and manage the connection side of the website. This means that if a resident submits an issue with their connection, I'm expected to troubleshoot their issue and make sure they are no longer dealing with that problem.
 
 ## Guiding resident’s to a solution
 
