@@ -10,7 +10,7 @@ labels:
   - IT support
 summary: "Managing the connection and internet side of the service request website for UHM Housing. "
 ---
-<img width="100px" class="rounded float-start pe-4" src="../img/pilikia/pic1.png">
+<img width="150px" class="rounded float-start pe-4" src="../img/pilikia/pic1.png">
 
 ## UHM Housing Service Request System
 
