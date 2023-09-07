@@ -8,7 +8,7 @@ published: true
 labels:
   - StackOverflow
 ---
-<img width="500px" class="rounded float-start pe-4" src="../img/questions/stackoverflow.png">
+<img width="450px" class="rounded float-start pe-4" src="../img/questions/stackoverflow.png">
 
 ## Smart questions are hard
 
