@@ -17,7 +17,7 @@ labels:
 
   Coding standards are no different from the way you format your essays, the traditional 12pt font, Times New Roman, and double-spaced. Arrange your essay by breaking up your information into paragraphs and adding headers. You could write an essay in Comic Sans and just have a wall of text, but there's an issue with this. Even though both essays have the same information, one is confusing and hard to look at. Having a specific format for essays so that is understandable and easy to follow applies to coding as well. Formatting your code to a specific style allows not only you but other people looking at your code to understand. It made me realize how important it was to keep those else statements on the same line as their curly braces.
 
-<img width="300px" class="center" src="../img/standards/missingsemi.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/standards/missingsemi.png">
 
 # Coding Standards are Anoying but Helpful
 
