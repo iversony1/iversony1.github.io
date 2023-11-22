@@ -19,10 +19,14 @@ Despite the controversies, I still use AI tools like ChatGPT to help me finish w
 
 Overall, AI assistance programs like ChatGPT is a 50/50 and these are the instances of my usage of AI in ICS 314:
 
-1. Experience WODs 
-In Experience WODs or assignments that we do in our own time, I would occasionally use AI. However, I only used AI at the beginning of this course, as later on I began to follow the video explanation that accompanied the assignment.
-2. In-class Practice WODs 
-During the In-class practice WODs, I used AI at the beginning of this course, but overtime, I began to use it less. I found that the later material, the usage of AI wasn’t reliable as it would provide me solutions that didn’t meet my expectations/criteria.
+1. Experience WODs
+
+    In Experience WODs or assignments that we do in our own time, I would occasionally use AI. However, I only used AI at the beginning of this course, as later on I began to follow the video explanation that accompanied the assignment.
+
+2. In-class Practice WODs
+
+    During the In-class practice WODs, I used AI at the beginning of this course, but overtime, I began to use it less. I found that the later material, the usage of AI wasn’t reliable as it would provide me solutions that didn’t meet my expectations/criteria.
+
 3. In-class WODs
 4. Essays
 5. Final Project
