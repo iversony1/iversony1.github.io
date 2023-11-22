@@ -23,74 +23,59 @@ Overall, AI assistance programs like ChatGPT is a 50/50 and these are the instan
 
   In Experience WODs or assignments that we do in our own time, I would occasionally use AI. However, I only used AI at the beginning of this course, as later on I began to follow the video explanation that accompanied the assignment.
 
-
 2. In-class Practice WODs
 
-  During the In-class practice WODs, I used AI at the beginning of this course, but overtime, I began to use it less. I found that the later material, the usage of AI wasn’t reliable as it would provide me solutions that didn’t meet my expectations/criteria..
-
+  During the In-class practice WODs, I used AI at the beginning of this course, but overtime, I began to use it less. I found that the later material, the usage of AI wasn’t reliable as it would provide me solutions that didn’t meet my expectations/criteria.
 
 3. In-class WODs
 
   For In-class WODs, I used AI very heavily as I can’t properly think in a timed environment. If I was given double the time a normal WOD would give, I am sure that I could complete the WOD without the help of AI. However, I would like to point out that with the last few WODs, I didn’t use AI as the solutions that it provided weren't useful.
 
-
 4. Essays
 
   When it came to writing essays for ICS 314, I never used AI to help me write one. Most of the essays that are generated from AI are pretty bad and don’t sound that good. In addition, the prompts for our essays weren’t that complicated and I had an easy time writing them.
-
 
 5. Final Project
 
   As of this moment, I haven’t used AI to help me with the final project as I haven’t found a need for it. However, as I began to start doing the more complicated parts, I might consider the use of AI.
 
-
 6. Learning a concept/tutorial
 
   When it comes to learning certain materials and content, I would occasionally use AI. If I didn’t fully understand a concept, I would ask ChatGPT to explain it in Minecraft terms and I would generally get a better understanding.
 
-
 7. Answering a question in class or in Discord
 
-  I think there wasn’t a time when I would use AI to answer a question in class or in Discord. I believed that using AI to help someone didn’t seem right to me and I would rather rely on my own intuition than an answer provided by AI that I don’t understand.
-
+  I think there wasn’t a time when I would use AI to answer a question in class or in Discord. I believed that using AI to help someone didn’t seem right to me and I would rather rely on my own intuition than an answer provided by AI that I don’t understand
 
 8. Asking or answering a smart-question
 
   I would occasionally use AI to answer questions that I didn’t fully understand. There are times when I would ask AI to further explain or analyze concepts that I was confused about.
 
-
 9. Coding examples
 
   When it came to asking AI for coding examples, the use of it at the beginning of the course was very helpful. It would usually provide me with a very accurate and correct code of the prompt that I asked. However, as the course went on and we began to deal with HTML, it became less reliable and I began to use it less often.
-
 
 10. Explaining code
 
   For explaining code, I didn’t really use AI that often. I don’t believe I used AI to explain code to me as most of the time, I would understand what my code or other code is trying to do. I would know what part of the code did what by just looking at it and even if I was confused, I would just go through the code step by step and understand what it did through that process.
 
-
 11. Writing code
 
   When it came to asking AI to write code for me, I would often use and rely on AI. I found it quite helpful when AI would provide me code snippets for prompts/assignments that I didn’t know where to start.
-
 
 12. Documenting code
 
   For documenting code, I never used AI as I found that documenting code was for my better understanding of the code that I made. I should be able to fully understand and explain what part of my code did what and its results.
 
-
 13. Quality assurance
 
   As for quality assurance, I didn’t really use AI to help me debug or fix errors as the answers that it did provide weren’t really that helpful. Also, I wanted to improve my debugging skills as knowing how to fix errors without the use of AI, seemed a lot more beneficial for me in the long run.
-
 
 14. Other uses in ICS 314
 
   Other than what has been stated above, I don’t think I used AI for anything other than helping me understand concepts and providing me with code.
 
-
 ## Impact on Learning and Understanding
-
 
 When it came to my learning experiences, I would like to say that the usage of AI has significantly improved my understanding of concepts in this course. Due to how AI is so accessible and how AI is generally useful when it comes to explaining concepts when it came to topics that I was confused about, I found AI very helpful. Most of the time, AI would be able to fully explain concepts that I needed further clarification on. In general, I find AI a useful tool that has positively impacted my learning experiences..
 
