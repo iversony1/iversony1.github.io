@@ -61,7 +61,7 @@ Overall, AI assistance programs like ChatGPT is a 50/50 and these are the instan
 
 11. Writing code
 
-   When it came to asking AI to write code for me, I would often use and rely on AI. I found it quite helpful when AI would provide me code snippets for prompts/assignments that I didn’t know where to start.
+    When it came to asking AI to write code for me, I would often use and rely on AI. I found it quite helpful when AI would provide me code snippets for prompts/assignments that I didn’t know where to start.
 
 12. Documenting code
 
