@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
     
-<img width="350px" class="rounded float-start pe-4" src="../img/design-patterns/brute-force.jpeg">
+<img width="350px" class="rounded float-start pe-4" src="../img/design-patterns/brute-force.jpg">
 
 ## Design Patterns is Everywhere
 
