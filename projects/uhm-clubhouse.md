@@ -15,8 +15,9 @@ summary: "A website made for UH Manoa students that want to explore the clubs th
 
 ## Overview
 
+
 <p align="center">
-  <img width="700px" src="..img/uhm-clubhouse/m3-landingpage.png">
+  <img width="700px" src="../img/uhm-clubhouse/m3-landingpage.png">
 </p>
 
 [UHM Clubhouse](https://uhm-clubhouse.xyz/) is a web application with the intent of making the experience of finding and managing clubs within UH Manoa simple and easy. It was developed by me and five other members for our final project in ICS 314. The UHM Clubhouse’s main purpose is to provide students of UH Manoa with a website where they can look for a club that fits them. They will be able to sort through the vase database of clubs based on specific interests, or if they want to create their club, request for the admin role so they will be permitted to do so. Many components make up the UHM Clubhouse and each plays a role in making the experience of exploring the many clubs that UH Manoa offers.
@@ -34,7 +35,7 @@ You can look further into detail on what my contributions were for this project,
 
 
 <p align="center">
-  <img width="700px" src="..img/uhm-clubhouse/m3-userhomepage.png">
+  <img width="700px" src="../img/uhm-clubhouse/m3-userhomepage.png">
 </p>
 
 ## Lesson Learned
