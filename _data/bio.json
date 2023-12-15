@@ -1,0 +1,77 @@
+{
+  "basics": {
+    "name": "Iverson Yago",
+    "label": "Student",
+    "picture": "https://github.com/iversony1.png",
+    "email": "iversony@hawaii.edu",
+    "phone": "",
+    "website": "https://iversony1.github.io",
+    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "iversony1", "url": "http://github.com/iversony1" },
+      { "network": "linkedin", "username": "IversonYago", "url": "http://linkedin.com/in/iverson-yago" },
+      { "network": "instagram", "username": "iversony", "url": "http://instagram.com/awesome_possum_cherry_blossom" }
+    ]
+  },
+  "interests": [
+    { "name": "Computer Networks" },
+    { "name": "Cybersecurity" },
+    { "name": "Game Design" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Windows", "Git/GitHub" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2025)",
+      "studyType": "B.A.",
+      "startDate": "2021-08-23",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "UH Student Housing ResNet Support",
+      "position": "Senior ResNet Support Specialist",
+      "website": "https://manoa.hawaii.edu/housing/",
+      "startDate": "2021-07-27",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Provided tech support for Student Housing residents",
+        "Troubleshooting and solving  connection issues for residents",
+        "Assisting Housing staff with a variety of networking projects"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Manoa Academic Merit Scholarship",
+      "date": "2021-Present",
+      "awarder": "State of Hawaii",
+      "summary": "University of Hawaii at Manoa Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.5 at a Hawai'i public school."
+    },
+    {
+      "title": "B+ Scholarship",
+      "date": "2021-Present",
+      "awarder": "University of Hawaii of Manoa",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
